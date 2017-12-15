@@ -2,7 +2,7 @@
  * Java. Level 1. Lesson 1. Example of homework
  *
  * @author Stanislav Bandurin
- * @version dated Nov 29, 2017
+ * @version dated Nov 30, 2017
  */
 class HW1Lesson {
 
